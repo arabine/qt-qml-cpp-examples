@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>drop_icon.png</file>
+        <file>step_input.png</file>
+        <file>step_pick_to_light.png</file>
+        <file>step_screwdriver.png</file>
+        <file>step_switch.png</file>
+        <file>step_user_input.png</file>
+    </qresource>
+</RCC>
